@@ -291,7 +291,6 @@ public class Atleta
 			return this.nombre.equals(otro.nombre);
 		}
 		
-		hijueputa
 	}
 
 	@Override
