@@ -290,6 +290,8 @@ public class Atleta
 			Atleta otro = (Atleta) obj;
 			return this.nombre.equals(otro.nombre);
 		}
+		
+		hijueputa
 	}
 
 	@Override
